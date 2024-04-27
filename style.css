@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Example modern font */
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8; /* Light, neutral background */
+    color: #333; 
+}
+
+header {
+    background-color: #0066cc;  /* Example accent color - feel free to adjust*/
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.hero-text {
+    margin-left: 30px;
+}
+
+button {
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    cursor: pointer;  
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+} 
+
+.albatross {
+    height: 10em;
+}
+
+.sensor {
+    height: 10em;
+}

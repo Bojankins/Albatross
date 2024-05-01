@@ -19,21 +19,27 @@ header {
     padding: 2em;
 }
 
+.hero{
+    margin-top: .5em;
+    text-align: center;
+
+}
+
 /* ... feature-grid, feature styles remain similar */
 
 button {
     background-color: #00d1b2; /* Bright, eye-catching color */
     color: white;
-    padding: 10px 20px;
+    padding: 1em 4em;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
 }
 
-#hero-image {
+#driver {
     width: 30%;
     border-radius: 50%;
-    border: .5em solid black;
+    border: .2em solid #b36E00;
 }
 
 #logo {

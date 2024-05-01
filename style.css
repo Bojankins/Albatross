@@ -1,46 +1,55 @@
 body {
-    font-family: 'Roboto', sans-serif; /* Example modern font */
+    font-family: 'Comic Sans MS', cursive; /* Fun, meme-y font */
     margin: 0;
-    padding: 0;
-    background-color: #f8f8f8; /* Light, neutral background */
-    color: #333; 
+    color: #333;
+    background-color: #e8f2ff; /* Light, playful background */
 }
 
 header {
-    background-color: #0066cc;  /* Example accent color - feel free to adjust*/
-    color: white;
-    padding: 20px 0;
+    background-color: #ffdd55; /* Bold yellow */
+    color: #243EA0; /* Dark blue contrast  */
+    padding: 1em 0;
     text-align: center;
 }
 
-.hero {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 40px;
+/* Keep the hero section similar */
+
+.features {
+    text-align: center;
+    padding: 2em;
 }
 
-.hero-text {
-    margin-left: 30px;
-}
+/* ... feature-grid, feature styles remain similar */
 
 button {
-    background-color: #0066cc;
+    background-color: #00d1b2; /* Bright, eye-catching color */
     color: white;
+    padding: 10px 20px;
     border: none;
-    padding: 15px 30px;
-    cursor: pointer;  
+    border-radius: 5px;
+    cursor: pointer;
 }
 
-footer {
-    text-align: center;
-    padding: 15px;
-} 
-
-.storhm {
-    height: 10em;
+#hero-image {
+    width: 30%;
+    border-radius: 50%;
+    border: .5em solid black;
 }
 
-.sensor {
-    height: 10em;
+#logo {
+    width: 30%;
+    border-radius: 50%;
+    border: .5em solid black;
+}
+
+.diamond-hands {
+    width: 30%;
+}
+
+.chart {
+    width: 30%;
+}
+
+.meme {
+    width: 30%;
 }

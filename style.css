@@ -5,11 +5,23 @@ body {
     background-color: #e8f2ff; /* Light, playful background */
 }
 
+h4 {
+    font-size: 5vh;
+}
+
+h2 {
+    font-size: 4vh; /* 5% of viewport width */
+}
+p {
+    font-size: 3vh; /* 2% of viewport height */
+}
+
 header {
     background-color: #ffdd55; /* Bold yellow */
     color: #243EA0; /* Dark blue contrast  */
     padding: 1em 0;
     text-align: center;
+    font-size: 8vw;
 }
 
 /* Keep the hero section similar */
@@ -28,34 +40,46 @@ header {
 /* ... feature-grid, feature styles remain similar */
 
 button {
-    background-color: #00d1b2; /* Bright, eye-catching color */
+    background-color: #00d1b2; /* Original color */
     color: white;
     padding: 1em 4em;
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
 }
 
+button:hover {
+    background-color: #02b3a4; /* Darker shade for hover */
+}
+
+
 #driver {
-    width: 30%;
-    border-radius: 50%;
+    width: 25%;
     border: .2em solid #b36E00;
 }
 
 #logo {
-    width: 30%;
+    width: 50%;
     border-radius: 50%;
     border: .5em solid black;
 }
 
 .diamond-hands {
-    width: 30%;
+    max-width: 50%;
 }
 
 .chart {
-    width: 30%;
+    max-width: 50%;
 }
 
 .meme {
-    width: 30%;
+    max-width: 50%;
 }
+
+.borel-regular {
+    font-family: "Borel", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

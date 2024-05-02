@@ -1,44 +1,39 @@
 # OldTom ($OLDT)
 
-## The Solana memecoin that's a chip shot away from the moon!
+## The Solana memecoin that's a chip shot away from the moon! 🚀🌕
 
-# What is OldTom?
+Welcome to the official repository of OldTom, the ultimate memecoin built on the Solana blockchain. We're all about the monkey spirit, blazing-fast transactions, and crazy meme energy!
 
-## OldTom is the ultimate memecoin built on the Solana blockchain. We're all about:
+### What is OldTom?
 
-Blazing-Fast Transactions: Move those $OLDT tokens faster than you can say fore!
-Crazy Meme Energy: Our community's meme game could make Tiger Woods chuckle.
-Proof of Play: We're building a sensor to revolutionize how you earn crypto (more on this soon!)
-Inspired by the Greats.
+OldTom is the premier memecoin for those who appreciate a good meme and an even better investment. Inspired by the greats of golf, we're bringing that energy to the fastest blockchain around.
 
-We love the monkey spirit and we're bringing that energy to Solana. OldTom aims to be the premier memecoin on the fastest blockchain around.
+### Why OldTom?
 
-# Why OldTom?
+- **Solana Speed**: Say goodbye to high gas fees and hello to lightning-quick swaps.
+- **NFT Madness**: Dive into the world of OldTom NFTs and community collaborations.
+- **Diamond-Handed Community**: HODL your OldTom and let's ride this rocket together!
 
-**Solana Speed: Say goodbye to high gas fees and hello to lightning-quick swaps.**
-** NFT Madness: We see crazy potential for OldTom NFTs and community collabs.**
-**Diamond-Handed Community: HODL your OldTom and let's ride this rocket together!**
+### Tokenomics
 
+- **Total Supply**: 1 billion $OLDT
+- **Distribution**:
+  - 50% Community Airdrop
+  - 20% Liquidity Pools
+  - 15% Team & Development
+  - 15% Marketing & Partnerships
 
-# Tokenomics (Placeholder – Customize to Your Project)
+### Roadmap
 
-## Total Supply: 1 billion $OLDT
-**Distribution:**
-50% Community Airdrop
-20% Liquidity Pools
-15% Team & Development
-15% Marketing & Partnerships
+1. **Phase 1**: Token launch on Solana DEXes
+2. **Phase 2**: Meme explosion! Community contests and collaborations.
+3. **Phase 3**: Proof of Play sensor prototype testing
+4. **Phase 4**: ??? (This is where the community helps us build the future!)
 
-# Roadmap
+### Get Involved
 
-## Phase 1: Token launch on Solana DEXes
-## Phase 2: Meme explosion! Community contests and collabs.
-## Phase 3: Proof of Play sensor prototype testing
-## Phase 4: ??? (This is where the community helps us build the future!)
+**Join the Swing**: Connect with us on Discord (https://discord.gg/sHWXbD7P), Twitter( x.com/oldtomcoin), and Telegram (https://t.me/oldtomcoin) If you've got skills in art, memes, or code, we'd love your help!
 
-# Get Involved
+_Disclaimer_: Memecoins are fun but volatile. Do your research, and enjoy the ride!
 
-**Join the Swing**: Find us on Discord (https://discord.gg/sHWXbD7P), Twitter(TBD), and Telegram (https://t.me/oldtomcoin)
-Got Skills? We'd love help with art, memes, or even code. Reach out!
-Disclaimer: Memecoins are fun but volatile. Do your research, and enjoy the ride!
 Let's make OldTom the next big thing on Solana!

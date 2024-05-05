@@ -31,33 +31,62 @@ header {
     padding: 2em;
 }
 
-.hero{
+.hero {
+    background: url('pepperoniisan.png') no-repeat center center;
+    background-size: cover;
+    height: 300px; /* Adjust the height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-content {
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* .hero{
     margin-top: .5em;
     text-align: center;
 
-}
+} */
 
 /* ... feature-grid, feature styles remain similar */
 
-button {
-    background-color: #00d1b2; /* Original color */
+a.button {
+    display: inline-block;
+    padding: 4vw 16vw 2vw; /* Increased padding for a larger button */
+    background-color: #4CAF50; /* Example button color, consider using a gradient for a more appealing look */
     color: white;
-    padding: 1em 4em;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
-    transition: background-color 0.3s; /* Smooth transition for hover effect */
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px; /* Slightly larger radius for a softer look */
+    font-weight: bold;
+    font-size: 1.2em; /* Larger font size for better visibility */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adding a subtle shadow for depth */
+    transition: all 0.3s; /* Smooth transition for hover effects */
+    /* Other styles remain the same */
+    text-decoration: underline;
+    background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
 }
 
-button:hover {
-    background-color: #02b3a4; /* Darker shade for hover */
+a.button:hover {
+    background-color: #45a049; /* Darker shade for hover effect */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Larger shadow on hover for a "lifting" effect */
+    transform: translateY(-2px); /* Slight upward movement on hover */
+    /* Other styles remain the same */
+    text-decoration: none;
+    background-image: linear-gradient(to right, #2b957a, #34c89a, #2b957a);
 }
 
 
-#pepper {
+
+/* #pepper {
     width: 25%;
     border: .2em solid #b36E00;
-}
+} */
 
 #logo {
     width: 50%;
@@ -82,4 +111,6 @@ button:hover {
     font-weight: 400;
     font-style: normal;
   }
+
+  
   

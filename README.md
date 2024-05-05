@@ -16,7 +16,7 @@ OldTom is the premier memecoin for those who appreciate a good meme and an even 
 
 ### Tokenomics
 
-- **Total Supply**: 1 billion $OLDT
+- **Total Supply**: 72 Million $OLDT
 - **Distribution**:
   - 50% Community Airdrop
   - 20% Liquidity Pools
